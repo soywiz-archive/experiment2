@@ -1,0 +1,3 @@
+[submodule "korlibs"]
+	path = korlibs
+	url = https://github.com/korlibs/korlibs.git
